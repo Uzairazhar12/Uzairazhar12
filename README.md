@@ -51,9 +51,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,django,mongodb,postgresql,python&perline=6" />
 </p>
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile 😄
-</p>
