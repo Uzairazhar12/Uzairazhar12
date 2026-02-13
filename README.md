@@ -1,13 +1,13 @@
 <h2 align="center">
-  Hi 👋 I'm Muhammad Uzair Azhar
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Muhammad+Uzair+Azhar&font=Poppins&size=32&duration=2000&color=2563EB&center=true&vCenter=true&weight=600" />
 </h2>
 
 <h3 align="center">
-  Full Stack Developer 💻 | SEO Specialist 📈
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+💻+%7C+SEO+Specialist+📈&font=Poppins&size=20&duration=2500&color=6366F1&center=true&vCenter=true&weight=500" />
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Fast+Web+Apps+🚀;Clean+UI+%26+Great+UX+✨;Always+Learning+📚&font=Fira%20Code&size=24&duration=3000&color=2563EB&center=true&vCenter=true&width=500" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Fast+Web+Apps+🚀;Clean+UI+%26+Great+UX+✨;Always+Learning+📚&font=Inter&size=22&duration=3000&color=2563EB&center=true&vCenter=true&weight=500" />
 </p>
 
 ---
@@ -33,19 +33,19 @@
 <p align="center">
 
 <a href="mailto:muhammaduzairazhar40@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=EA4335"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/muhammad-uzair-azhar-26593524b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0A66C2"/>
 </a>
-
+&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100011030940906">
-  <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/👥%20Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117&color=1877F2"/>
 </a>
-
+&nbsp;
 <a href="https://www.instagram.com/uzairazhar._/">
-  <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📷%20Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117&color=E4405F"/>
 </a>
 
 </p>
@@ -63,4 +63,3 @@
 <p align="center">
   ⭐ Thanks for visiting my profile 😄
 </p>
-
