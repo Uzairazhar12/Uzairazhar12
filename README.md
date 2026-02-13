@@ -33,19 +33,19 @@
 <p align="center">
 
 <a href="mailto:muhammaduzairazhar40@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=EA4335"/>
+  <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2937&color=DC2626"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/muhammad-uzair-azhar-26593524b/">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0A66C2"/>
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937&color=0077B5"/>
 </a>
-&nbsp;
+
 <a href="https://www.facebook.com/profile.php?id=100011030940906">
-  <img src="https://img.shields.io/badge/👥%20Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117&color=1877F2"/>
+  <img src="https://img.shields.io/badge/👥%20Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1F2937&color=1877F2"/>
 </a>
-&nbsp;
+
 <a href="https://www.instagram.com/uzairazhar._/">
-  <img src="https://img.shields.io/badge/📷%20Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117&color=E4405F"/>
+  <img src="https://img.shields.io/badge/📷%20Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1F2937&color=E4405F"/>
 </a>
 
 </p>
