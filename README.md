@@ -1,50 +1,58 @@
+<h2 align="center">
+  Hi 👋 I'm Muhammad Uzair Azhar
+</h2>
+
 <h3 align="center">
-  Hi 👋, I'm Muhammad Uzair Azhar — A Full Stack Developer 💻
+  Full Stack Developer 💻 | SEO Specialist 📈
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💻;SEO+Specialist+📈;Building+Fast+%26+Modern+Web+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0A66C2&center=true&vCenter=true&width=500&lines=Building+Fast+Web+Apps+🚀;Clean+UI+%26+Great+UX+✨;Always+Learning+📚" />
 </p>
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uzairazhar12&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Uzairazhar12&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uzairazhar12&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uzairazhar12&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uzairazhar12&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-<h3 align="center">🌐 Connect With Me</h3>
-
-<p align="center">
-  <a href="mailto:muhammaduzairazhar40@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-informational?style=flat&logo=gmail&logoColor=white&color=1a1a1a" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/muhammad-uzair-azhar-26593524b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1a1a1a" />
-  </a>
-
-  <a href="https://www.facebook.com/profile.php?id=100011030940906">
-    <img src="https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1a1a1a" />
-  </a>
-
-  <a href="https://www.instagram.com/uzairazhar._/">
-    <img src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1a1a1a" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairazhar12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<h3 align="center">⚒️ Tech Stack</h3>
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:muhammaduzairazhar40@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-uzair-azhar-26593524b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100011030940906">
+  <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/uzairazhar._/">
+  <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## ⚒️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,django,mongodb,postgresql,python" />
