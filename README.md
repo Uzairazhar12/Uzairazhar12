@@ -1,100 +1,57 @@
-<!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Muhammad Uzair Azhar</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+💻;SEO+Specialist+📈;Building+Clean+%26+Fast+Web+Apps+🚀" />
-</p>
-
----
-
-## 🚀 About Me
-
-💻 Full-stack developer with a focus on clean, fast & user-friendly web apps.  
-📈 SEO specialist working on performance & visibility.  
-📚 Always learning new tools and tech.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,django,express,python" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
-
-### 📊 Other Skills
-SEO 📈 | UI/UX Basics 🎨 | Performance Optimization ⚡
-
----
-
-## 📚 Currently Learning
-
-🦀 Rust & WebAssembly  
-⚡ Modern performance techniques
-
----
-
-## 🏆 GitHub Achievements
+<h3 align="center">
+  Hi 👋, I'm Muhammad Uzair Azhar — A Full Stack Developer 💻
+</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Uzairazhar12&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💻;SEO+Specialist+📈;Building+Fast+%26+Modern+Web+Apps+🚀" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uzairazhar12&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uzairazhar12&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 💻 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairazhar12&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uzairazhar12&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🎯 Interests
-
-🚀 Web Development  
-📊 SEO & Digital Growth  
-🎨 UI/UX  
-🌍 Open Source
-
----
-
-## 📫 Connect With Me
-
-📧 Email: muhammaduzairazhar40@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/muhammad-uzair-azhar-26593524b/
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting!
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uzairazhar12&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uzairazhar12&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uzairazhar12&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="center">🌐 Connect With Me</h3>
+
+<p align="center">
+  <a href="mailto:muhammaduzairazhar40@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-informational?style=flat&logo=gmail&logoColor=white&color=1a1a1a" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/muhammad-uzair-azhar-26593524b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1a1a1a" />
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=100011030940906">
+    <img src="https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1a1a1a" />
+  </a>
+
+  <a href="https://www.instagram.com/uzairazhar._/">
+    <img src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1a1a1a" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">⚒️ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,django,mongodb,postgresql,python" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile 😄
 </p>
